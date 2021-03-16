@@ -2,6 +2,6 @@
 Your privacy is important and we take is seriously.
 
 ### Some sub-heading
-With some text
+This content originates from GitHub
 
 TODO...
